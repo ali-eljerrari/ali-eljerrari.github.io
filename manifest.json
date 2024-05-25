@@ -1,1 +1,19 @@
-{"short_name":"Coding_Dyansty Portfolio","name":"Coding_Dyansty Portfolio","icons":[{"src":"https://eljerrari.com/assets/img/profile.png?h=ca1ddcee1cb057489d44a94e63b7fbc4","type":"image/png","sizes":"256x256"},{"src":"https://eljerrari.com/assets/img/profile.png?h=ca1ddcee1cb057489d44a94e63b7fbc4","type":"image/png","sizes":"256x256"}],"start_url":"index.html","display":"fullscreen","orientation":"portrait"}
+{
+  "short_name": "Coding_Dyansty Portfolio",
+  "name": "Coding_Dyansty Portfolio",
+  "icons": [
+    {
+      "src": "https://eljerrari.com/assets/img/profile.png?h=ca1ddcee1cb057489d44a94e63b7fbc4",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "https://eljerrari.com/assets/img/profile.png?h=ca1ddcee1cb057489d44a94e63b7fbc4",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
